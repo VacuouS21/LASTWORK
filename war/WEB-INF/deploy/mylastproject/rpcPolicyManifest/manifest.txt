@@ -1,0 +1,3 @@
+# Module mylastproject
+# RPC service class, partial path of RPC policy file
+com.example.myproject.client.InputServices, 875B9AE30730CFFD010F10D13C443BBA.gwt.rpc
